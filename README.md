@@ -90,11 +90,11 @@ My main focus is a **public, structured C++ learning roadmap** that gets progres
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME-HERE">
+  <a href="https://www.linkedin.com/in/rajith-sundar">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="mailto:rajith@example.com">
+  <a href="mailto:rajithsundarpillai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email">
   </a>
 </p>
